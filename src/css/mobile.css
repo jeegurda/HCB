@@ -1,0 +1,12 @@
+@media (max-height: 550px) {
+  .brand__container {
+    width: 90px;
+    height: 90px;
+  }
+}
+
+@media (orientation: portrait) and (max-device-width: 767px) {
+  .portrait {
+    display: flex;
+  }
+}

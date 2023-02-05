@@ -1,0 +1,16 @@
+:root {
+  --bg: #1b1b1b;
+  --ring: #232323;
+  --gold: #d4b970;
+  --bg-text: #232323;
+
+  /* shapes */
+  --pink: #ff0064;
+  --green: #2dd48b;
+
+  /* brands */
+  --orange: #e88a10;
+  --blue: #183771;
+  --black: #080909;
+  --red: #e71b1c;
+}
